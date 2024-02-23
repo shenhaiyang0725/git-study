@@ -1,4 +1,4 @@
 public class TestShy {
     int A = 3;
-    String b = "345679";
+    String b = "1234";
 }
